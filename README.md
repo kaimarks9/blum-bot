@@ -8,7 +8,7 @@ This is for education purpose only, use with ur own risk!
 - [Installation]
 - (Termux, Linux, Windows)
 - $ git clone https://github.com/kaimarks9/blum-bot.git
-- $ cd moonbix-bot
+- $ cd blum-bot
 - $ pip install -r requirements.txt
 - $ python3 bot.py
 
