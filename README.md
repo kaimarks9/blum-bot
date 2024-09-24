@@ -1,4 +1,4 @@
-# MoonBix-Bot
+# Blum-Bot
 ![badge](https://img.shields.io/badge/version-1.0-blue)
 
 # Description
@@ -7,7 +7,7 @@ This is for education purpose only, use with ur own risk!
 
 - [Installation]
 - (Termux, Linux, Windows)
-- $ git clone https://github.com/kaimarks9/moonbix-bot.git
+- $ git clone https://github.com/kaimarks9/blum-bot.git
 - $ cd moonbix-bot
 - $ pip install -r requirements.txt
 - $ python3 bot.py
