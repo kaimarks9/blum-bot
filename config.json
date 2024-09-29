@@ -1,9 +1,9 @@
 {
     "interval": 3,
     "auto_complete_task": false,
-    "auto_play_game": true,
+    "auto_play_game": false,
     "game_point": {
         "low": 150,
-        "high": 210
+        "high": 200
     }
 }
