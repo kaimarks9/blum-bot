@@ -10,7 +10,7 @@ This is for education purpose only, use with ur own risk!
 - $ git clone https://github.com/kaimarks9/blum-bot.git
 - $ cd blum-bot
 - $ pip install -r requirements.txt
-- $ python3 bot.py
+- $ python bot.py
 
 -----------------------------------------------------------------------------
 
@@ -21,3 +21,7 @@ This is for education purpose only, use with ur own risk!
 - [x] Support Multi Account
 - [x] Auto Complete Task
 - [x] Auto Play Game (random input from user)
+
+## Configuration
+
+to enable earn points and auto tasks edit config.js default set is off
